@@ -1,2 +1,2 @@
-# Unity Package Template
-A template for creating Unity packages.
+# Weapon System
+A library for creating modular weapons.

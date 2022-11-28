@@ -1,4 +1,14 @@
 {
-    "name": "com.travisrfrench.unity-package-template",
-    "version": "0.0.0"
+    "name": "com.travisrfrench.weapon-system",
+    "displayName": "Weapon System",
+    "version": "0.0.0",
+    "description": "A library for creating modular weapons.",
+    "author": {
+        "name": "Travis R. French"
+    },
+    "homepage": "https://github.com/frenchtr/weapon-system",
+    "keywords": ["Weapons"],
+    "dependencies": {
+    },
+    "license": "See <LICENSE.md>"
 }
