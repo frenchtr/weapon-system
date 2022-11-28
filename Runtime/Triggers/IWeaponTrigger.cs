@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TravisRFrench.WeaponsSystem.Triggers
+namespace TravisRFrench.WeaponSystem.Runtime.Triggers
 {
     public interface IWeaponTrigger<TContext>
     {

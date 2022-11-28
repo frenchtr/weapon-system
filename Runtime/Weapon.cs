@@ -1,8 +1,7 @@
-﻿using System;
-using TravisRFrench.WeaponsSystem.Triggers;
+﻿using TravisRFrench.WeaponSystem.Runtime.Triggers;
 using UnityEngine;
 
-namespace TravisRFrench.WeaponsSystem
+namespace TravisRFrench.WeaponSystem.Runtime
 {
     public abstract class Weapon<TContext> : MonoBehaviour, IWeapon<TContext>
     {
