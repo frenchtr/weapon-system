@@ -3,7 +3,9 @@
     "rootNamespace": "TravisRFrench.WeaponSystem.Tests.Runtime",
     "references": [
         "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner"
+        "UnityEditor.TestRunner",
+        "TravisRFrench.Common.Runtime",
+        "TravisRFrench.WeaponSystem.Runtime"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
